@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML related to setting the innerHTML property to null. The bug causes the element to be completely removed from the DOM instead of simply clearing its content.  The solution shows the correct way to clear the content of an element.
